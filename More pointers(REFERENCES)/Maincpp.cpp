@@ -1,4 +1,4 @@
-//Шаблон проэкта С++
+//ГГ ГЎГ«Г®Г­ ГЇГ°Г®ГЅГЄГІГ  Г‘++
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -55,7 +55,7 @@ int main() {
 	int n = 10, m = 20;
 
 		//Neitralnii ykazatel
-		/*//int* pn=0;//napravlenie ykazately na neitralnyi adres 1 pervyi sposob
+		//int* pn=0;//napravlenie ykazately na neitralnyi adres 1 pervyi sposob
 
 		//int* pn = NULL;//2 sposob
 
@@ -65,50 +65,50 @@ int main() {
 		else
 			std::cout << *pn << '\n';
 
-		std::cout << *pn << '\n';*/
+		std::cout << *pn << '\n';
 		
 		int a = 10, b = 20, c = 30;
 		// ykazatel na konstantny , ispolzyi razimenovanie 
 		//nelza pomenyt znachenie peremennoi na kotoruy ykazyvaet
-		/*int const* pa;
+		int const* pa;
 		pa = &a;
 		std::cout << *pa << '\n';
 		pa = &b;
 		std::cout << *pa << '\n';
-		//*pa = 15;//error*/
+		//*pa = 15;//error
 
 		//konstantnyi ukazatel
-		 /*const int* pb;
+		 const int* pb;
 		 pb = &b;
 		 std::cout << *pb << '\n';
 		 pb = &c;
 		 std::cout << *pb << '\n';
-		 *pb = 35;//error*/
+		 *pb = 35;//error
 		
 		 //konstantnyi ykazatel na konstantu//nelzy menyt znacheniy peremennoi a tak ge nelza perenapravlyt ykazatel
-		/*const int* const pc = &c;
+		const int* const pc = &c;
 		std::cout << *pc << '\n';
 		pc = &a;//error
-		pc = 50;//error*/
+		pc = 50;//error
 		
 		//ssylka na peremennuy
-		/*int& refn = n;//sozdaem ssylku svazanuy s peremennoi n;
+		int& refn = n;//sozdaem ssylku svazanuy s peremennoi n;
 		std::cout << "n = " << n << '\n';
 		std::cout << "refn = " << refn << '\n';
 		
 		refn = 15;
 
-		std::cout << "new n = " << n << '\n';*/
+		std::cout << "new n = " << n << '\n';
 		
 		//Ssylki kak parametry funkciy
-		/*std::cout << n << ' ' << m << '\n';
+		std::cout << n << ' ' << m << '\n';
 		//myswap(n, m);//udobno no ne rabotaet
 		//pswap(&n, &m);//rabotaet, no neudobno
 		refswap(n, m);
-		std::cout << n << ' ' << m << '\n';*/
+		std::cout << n << ' ' << m << '\n';
 
 		//Task1vozvrashyni funkcii
-		/*for (int i = 0; i < 10; i++)
+		for (int i = 0; i < 10; i++)
 		{
 			std::cout << "Ryd nomer" << i + 1 << ": ";
 			std::cin >> mx[i][0];
@@ -116,17 +116,17 @@ int main() {
 		}
 		std::cout << " itogovyi massive: \n";
 		for (int i = 0; i < 10; i++)
-			std::cout << mx[i][0] << '\t' << func(i) << '\n';*/
+			std::cout << mx[i][0] << '\t' << func(i) << '\n';
 
 		//obnulenii maximalnogo elementa massiva;
-		/*const int size = 5;
+		const int size = 5;
 		int arr[size]{ 4, 2, 7, 1, 6 };
 		std::cout << "Iznachalnyi massive: \n";
 		show_arr(arr, size);
 		std::cout << "Maximum = " << max_arr(arr, size)<<"\n";
 			std::cout << "Obnulyem maxium...\nItigovyi massive:\n";
 			max_arr(arr, size) = 0;
-			show_arr(arr, size);*/
+			show_arr(arr, size);
 		return 0;
 
 }
