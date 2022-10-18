@@ -125,8 +125,4 @@ int main() {
 	//ochishenie dvumernogo dynamic massive
 	//delete [][]mx;//ne rabotaet;
 	for (int i = 0; i < 4; i++)
-		delete[]  mx[i];
-	delete[]mx;
-	
-	return 0;
-}
+	xu
