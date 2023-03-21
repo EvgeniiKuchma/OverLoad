@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T15:31:16.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="dEBXLVi9R1dhaOVClsoE" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T15:39:29.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="2aUmaLrKoK1XanSwjpuD" version="21.0.8" type="github">
   <diagram name="Страница 1" id="JPdYqSS6xnlzDygc57Em">
-    <mxGraphModel dx="917" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2416" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-12" value="использование для ухода за больными в условиях отсутствия&amp;nbsp;&lt;br&gt;электричества" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="200" width="206" height="50" as="geometry" />
+          <mxGeometry x="294" y="200" width="216" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-14" value="модификация для использования в качестве сковороды" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="270" width="206" height="50" as="geometry" />
+          <mxGeometry x="294" y="260" width="216" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.955;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-16" value="перепродажа самого изделия в другие страны" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="460" width="156" height="50" as="geometry" />
+          <mxGeometry x="294" y="460" width="166" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.817;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-18" value="перепродажа переплавленного сырья&lt;br&gt;по завышенной цене&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="390" width="246" height="40" as="geometry" />
+          <mxGeometry x="294" y="390" width="246" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="YYn-Cd_rCJ2xjd2uWwZy-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5ZW94au381o3E3Ns1Sk3-5" value="социальная помощь не имущим слоям населения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="20" width="156" height="50" as="geometry" />
+          <mxGeometry x="284" y="20" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5ZW94au381o3E3Ns1Sk3-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.917;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="5ZW94au381o3E3Ns1Sk3-7" source="YYn-Cd_rCJ2xjd2uWwZy-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
