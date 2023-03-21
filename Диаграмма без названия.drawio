@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T15:23:18.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="IowSBeD7_HswHH_bDQXm" version="21.0.8" type="github"><diagram name="Страница 1" id="JPdYqSS6xnlzDygc57Em">7Vrfb9owEP5r8tgpjvPzEQhsmjapEg9t9zKlxINUIUbGFNhfPyexE9tJKKVQgjQeLPuLfXHOd1/ujhhwtNx9JdFq8RPHKDUsM94ZMDQsKwAea3NgXwKOHZTAnCRxCYEamCZ/EQdNjm6SGK2ViRTjlCYrFZzhLEMzqmARIXirTvuDU/Wuq2iOGsB0FqVN9CGJ6aJEfcur8W8omS/EnYHLn28Zicn8SdaLKMZbCYJjA44IxrTsLXcjlOa6E3op1006rlYbIyijxyx4esruRvFvMvpu7V5ia/Ow/bW/41Jeo3TDH9gITWM4KVrTCIHhl22J+0V/wlYUHa9oYXEJSv1QtAwZFq1TLKkkjwsQSJKdoi0nj7qXQ7EleUkpkLUDrmm6F8dH8CaLUa4BYMDhdpFQNF1Fs/zqltkrwxZ0mfLLXBeIULTrVDKojo6ZPMJLRMmeTdmpZsutvTr8bW07QGALyW5cjkXcXOeV5PpEWYcf6jsO2G4esK4jlMWD3FPYaJZG63UyU9VS69BkI7RL6GPe/xIENh8/FWPgu3wc7qTJ4V4MMvZAj/KgXOeIYb2sGO0lIfeIJEwhiHCsfAgUa85LIzJH9IA6nI4DZQrBGzJDb7lK8+Clk3VaDlZgBKURTV7V7badNr/DPU7YBmu7slXDAoFmMOX2+SqZBXRBgSbI1gSVKmwIYhYS7aVpq3zCumGelWJOt1jnECU5Df+fSEjJArYgL9a6vM/pwxKdgURwniRZpiRBTHyJKQhO46ywwY9eB39V8qEiv2ZMv/EsLd6apuzdhz6FzazAbjcWmc4ct9vqz05nblMfjAOmfIgJXeA5zqJ0XKMaf9VzfmC84rp6QZTuefARbShWNVlTniMRHjhIdh0EdYTuP8gU0AOMmeufr5ygfyJtvE9qB4eciyH8/0bw3wiCCwY2vhrYmDa8dmDTErC8GeuIWLTnkQ3sCJk/HNmAvkU2YkPvCG2qBMeUQoZBR1DjSyGG0wiIQgnR4pGhlOiNxIQexR3+tcMO0JInXyqNgtC+SbYRGrkptoF6+nMq21iwd2xjtbNNxRJyNUarvXhKClLzT5WmyImRLS2vSkOwg4Uq1vLUIejYSZVFsf6I313hvepeoFEOUmtWSh1pLJI2OSfTEKtFiOVGy5zvsuf1qvAfN2UGOnwmrDfPe8W8UNqKIyi7ki6T9eHcU7zA+8HCltmkYcv8VBqGl6JhoFCwcxECPifZ2rdItrYekZ1KttDsHdkeU2e9pu96V/fdlrre+RI2qPhv4FzGgy8dQonqVr+92tUin1PLCVWmJxI2r3de7fbbq2336omRd0GvDgLFq312s1v0alGu7LdXe5pXn/oHk6W99MGRdcFP9Gq/314Ng6t79fmLq9ePmaWPLnoQCzf+8T85FtYFXd2/xGu9t/4FL+dfbFh/0VMqtP4sCo7/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T15:31:16.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="dEBXLVi9R1dhaOVClsoE" version="21.0.8" type="github">
+  <diagram name="Страница 1" id="JPdYqSS6xnlzDygc57Em">
+    <mxGraphModel dx="917" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-1" value="партия чугунных постельных грелок" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.186;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="190" as="sourcePoint" />
+            <mxPoint x="190" y="140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-5" value="перепродажа в качестве аутентичных сувениров" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="140" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371.9999999999998" y="80" as="sourcePoint" />
+            <mxPoint x="371.9999999999998" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371.9999999999998" y="80" as="sourcePoint" />
+            <mxPoint x="371.9999999999998" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.043;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="220" as="sourcePoint" />
+            <mxPoint x="190" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-10" value="переплавка в исходное сырье" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="80" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.334;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="340" as="sourcePoint" />
+            <mxPoint x="190" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-12" value="использование для ухода за больными в условиях отсутствия&amp;nbsp;&lt;br&gt;электричества" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="200" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="410" as="sourcePoint" />
+            <mxPoint x="190" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-14" value="модификация для использования в качестве сковороды" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="270" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.955;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="220" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-16" value="перепродажа самого изделия в другие страны" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="460" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.817;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YYn-Cd_rCJ2xjd2uWwZy-1" target="YYn-Cd_rCJ2xjd2uWwZy-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="230" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-18" value="перепродажа переплавленного сырья&lt;br&gt;по завышенной цене&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="390" width="246" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="YYn-Cd_rCJ2xjd2uWwZy-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="260" as="sourcePoint" />
+            <mxPoint x="190" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYn-Cd_rCJ2xjd2uWwZy-20" value="модификация для использования в качестве рычагов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="330" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZW94au381o3E3Ns1Sk3-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.959;exitY=0.034;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="5ZW94au381o3E3Ns1Sk3-5" source="YYn-Cd_rCJ2xjd2uWwZy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="180" y="50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZW94au381o3E3Ns1Sk3-5" value="социальная помощь не имущим слоям населения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="20" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZW94au381o3E3Ns1Sk3-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.917;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="5ZW94au381o3E3Ns1Sk3-7" source="YYn-Cd_rCJ2xjd2uWwZy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="660" as="sourcePoint" />
+            <mxPoint x="200" y="550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZW94au381o3E3Ns1Sk3-7" value="обогрев в условиях краткосрочных холодов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="520" width="156" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
